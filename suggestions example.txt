@@ -1,0 +1,2 @@
+question | Answer!
+remove friend | You can remove friends by going to the profile and removing them!
