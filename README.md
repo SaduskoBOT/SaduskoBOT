@@ -1,5 +1,5 @@
 # SaduskoBOT
-This is a bot that will answer your questions. It is not fully functioning yet but this is something we are working on. Please be patient!
+This is a bot that will answer your questions. It is not fully functioning yet but this is something we are working on. Please be patient! Check out our website at https://www.SaduskoBOT.cf/
 
 ## What will it help me with?
 The top most supported systems/games are Steam, Unturned and Rocket. More to be added in the future.
